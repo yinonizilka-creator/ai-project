@@ -1,0 +1,5 @@
+Published successfully: https://python-studio-yinon-nov26.yinoni-zilka.chatgpt.site
+Access: owner-private (unchanged)
+Commit: 9875aeb96d913593ed6f1ec99e054ec7e1a57385
+Deployment: appgdep_6ae8f087e9d881918b42d16c1df456b7
+Static website only. Native browsing requires the Windows edition. Cloud email/password backend, market-data provider and off-computer simulation remain unconfigured.

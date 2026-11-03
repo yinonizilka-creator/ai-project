@@ -1,0 +1,6 @@
+BetaTrade v4
+20 automated tests passed: accounts, imports, accounting, current-universe provider fixtures, forward buy/sell/floor, URL and privilege policy.
+Native Windows preview: direct example.com navigation and Claude shortcut rendered inside app; Dark and Light verified.
+No external account signed in. No live market-data key supplied, therefore actual provider fills not verified.
+Cloud/off-computer operation not activated. No real money or broker integration.
+Portable runtime: Electron 45.2.1 / Node 24.22.1, Windows x64.
